@@ -16,3 +16,6 @@ xgboost
 librosa
 os
 To run code make changes in ipynb as directed in the code
+
+
+The code for speaker recognition has been taken down due to company policy although method and techniques can be made available. To get more information about the techniques used Contact me on leekharohan@gmail.com
