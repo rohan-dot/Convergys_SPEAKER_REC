@@ -1,7 +1,6 @@
 # Convergys_SPEAKER_REC
 Convergys_SPEAKER_REC
-Using XGBOOST and feature extraction using librosa
-193 features were extracted from audio files for speaker recognition
+Using XGBOOST and feature extraction spectral feature were extracted from audio files for speaker recognition
 Audio files are to be fed as data to the network for speaker recognition
 Contains 2 folders 
 speaker 1 and speaker 2 on whom network will be trained and give results
